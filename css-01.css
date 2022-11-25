@@ -1,0 +1,133 @@
+/* Container holding the image and the text */
+.container {
+  width: 87%;
+  position: relative;
+  text-align: center;
+  color: white;
+  margin-left: 7%;
+  margin-top: 1%;
+
+}
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  margin-top: 3%;
+  margin-left: 9%;
+  color: blue;
+}
+/* logo */
+.top-left-01 {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  padding-right: 88%;
+  margin-top: 3%;
+  margin-left: 3%;
+  size: auto;
+  
+}
+
+.top-left-02 {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  margin-top: 5%;
+  margin-left: 9%;
+  color: black;
+}
+
+  .top-left-03 {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    margin-top: 15%;
+    margin-left: 10.5%;
+    color: blue;
+  }
+
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  margin-top: 12%;
+  margin-right: 26%;
+  
+}
+
+.top-right-01 {
+  position: absolute;
+  top: 8px;
+  right: 5px;
+  margin-top: 2%;
+  margin-right: 15%;
+}
+
+
+.top-right-02 {
+  position: absolute;
+  top: 8px;
+  right: 5px;
+  margin-top: 1.5%;
+  margin-right: 10%;
+}
+
+.top-right-out {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  margin-top: 12%;
+  margin-right: 30%; }
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #4733f4;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 9px 16px;
+  text-align: center;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 10px;
+  border-radius: 10%;
+
+}
+.button1:hover {
+  background-color: #4733f4;
+}
+
